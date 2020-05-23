@@ -1,0 +1,12 @@
+{
+  "name": "miscellany-node-things",
+  "version": "1.0.0",
+  "description": "Miscellany Node things for WTAT1",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Barne Kleinen",
+  "repository": "https://github.com/htw-imi-wtat1/miscellany-node-things",
+  "license": "MIT"
+}
