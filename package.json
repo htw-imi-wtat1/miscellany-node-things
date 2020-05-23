@@ -8,5 +8,9 @@
   },
   "author": "Barne Kleinen",
   "repository": "https://github.com/htw-imi-wtat1/miscellany-node-things",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^26.0.1",
+    "keygenerator": "^1.0.4"
+  }
 }
